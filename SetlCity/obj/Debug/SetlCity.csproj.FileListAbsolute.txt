@@ -1,0 +1,142 @@
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\ApplicationInsights.config
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\csc.exe
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\csc.exe.config
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\csc.rsp
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\csi.exe
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\csi.rsp
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\System.AppContext.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\vbc.exe
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\vbc.exe.config
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\vbc.rsp
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\VBCSCompiler.exe
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\SetlCity.dll.config
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\SetlCity.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\SetlCity.pdb
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Antlr3.Runtime.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\EntityFramework.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\EntityFramework.SqlServer.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.Web.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.ApplicationInsights.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Newtonsoft.Json.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Helpers.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Mvc.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Optimization.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Razor.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.WebPages.Deployment.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.WebPages.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.WebPages.Razor.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\WebGrease.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\EntityFramework.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\EntityFramework.SqlServer.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Helpers.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Mvc.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Optimization.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.Razor.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.WebPages.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.WebPages.Deployment.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\System.Web.WebPages.Razor.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Antlr3.Runtime.pdb
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Newtonsoft.Json.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.ApplicationInsights.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\bin\Microsoft.AI.Web.xml
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\obj\Debug\SetlCity.csprojResolveAssemblyReference.cache
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\obj\Debug\SetlCity.dll
+c:\Users\valer\OneDrive\документы\visual studio 2017\Projects\SetlCity\SetlCity\obj\Debug\SetlCity.pdb
+D:\TestTasks\SetlCity\SetlCity\bin\ApplicationInsights.config
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\csc.exe
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\csc.exe.config
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\csc.rsp
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\csi.exe
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\csi.rsp
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\System.AppContext.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\System.Collections.Immutable.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\System.IO.FileSystem.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\System.Reflection.Metadata.dll
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\vbc.exe
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\vbc.exe.config
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\vbc.rsp
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\VBCSCompiler.exe
+D:\TestTasks\SetlCity\SetlCity\bin\roslyn\VBCSCompiler.exe.config
+D:\TestTasks\SetlCity\SetlCity\bin\SetlCity.dll.config
+D:\TestTasks\SetlCity\SetlCity\bin\SetlCity.dll
+D:\TestTasks\SetlCity\SetlCity\bin\SetlCity.pdb
+D:\TestTasks\SetlCity\SetlCity\bin\Antlr3.Runtime.dll
+D:\TestTasks\SetlCity\SetlCity\bin\EntityFramework.dll
+D:\TestTasks\SetlCity\SetlCity\bin\EntityFramework.SqlServer.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.DependencyCollector.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.Web.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.WindowsServer.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.ApplicationInsights.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.Web.Infrastructure.dll
+D:\TestTasks\SetlCity\SetlCity\bin\Newtonsoft.Json.dll
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Helpers.dll
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Mvc.dll
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Optimization.dll
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Razor.dll
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.WebPages.Deployment.dll
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.WebPages.dll
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.WebPages.Razor.dll
+D:\TestTasks\SetlCity\SetlCity\bin\WebGrease.dll
+D:\TestTasks\SetlCity\SetlCity\bin\EntityFramework.xml
+D:\TestTasks\SetlCity\SetlCity\bin\EntityFramework.SqlServer.xml
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Helpers.xml
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Mvc.xml
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Optimization.xml
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.Razor.xml
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.WebPages.xml
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.WebPages.Deployment.xml
+D:\TestTasks\SetlCity\SetlCity\bin\System.Web.WebPages.Razor.xml
+D:\TestTasks\SetlCity\SetlCity\bin\Antlr3.Runtime.pdb
+D:\TestTasks\SetlCity\SetlCity\bin\Newtonsoft.Json.xml
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.ApplicationInsights.xml
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.DependencyCollector.xml
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.WindowsServer.xml
+D:\TestTasks\SetlCity\SetlCity\bin\Microsoft.AI.Web.xml
+D:\TestTasks\SetlCity\SetlCity\obj\Debug\SetlCity.csprojResolveAssemblyReference.cache
+D:\TestTasks\SetlCity\SetlCity\obj\Debug\SetlCity.dll
+D:\TestTasks\SetlCity\SetlCity\obj\Debug\SetlCity.pdb
